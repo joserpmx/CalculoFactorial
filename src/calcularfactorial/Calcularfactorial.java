@@ -17,6 +17,7 @@ public class Calcularfactorial {
     public static void main(String[] args) {
         //Inicio de algoritmo
         // Declaracion de variables
+        // le agrego un comentario
         int Contador=0; //Sirve para controlar el ciclo y guardar el numero que se quiere calcular el factorial
         float Factorial=1; //Acumulador sirve para guardar el resultado
         int Numero,Respuesta=1;
